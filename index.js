@@ -41,6 +41,7 @@ class Airplane {
 */
 
 class Person {
+  constructor(name, age)
 
 }
 
